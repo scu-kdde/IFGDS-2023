@@ -1,0 +1,4 @@
+patient id,patient name,clinical time,company id,company name,hospital id,hospital name,total cost,claim amount,reimbursement amount,drug cost,materials cost,treatment cost
+p.1,Jelly,2022.01.25,company A,******,hosp.1,******,$103.60 ,$65.50 ,$65.50 ,$15.50 ,$32.30 ,$23.60 
+p.2,Tina,2022.01.01,company B,******,hosp.5,******,$67.50 ,$32.10 ,$32.10 ,$22.10 ,$17.10 ,$10.10 
+p.3,Marry,2022.01.05,company C,******,hosp.2,******,$61.70 ,$33.20 ,$33.20 ,$3.20 ,$17.10 ,$14.40 
